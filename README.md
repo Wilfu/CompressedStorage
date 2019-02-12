@@ -1,6 +1,7 @@
 # My data storage and compressing lib
  `example.py`
  
+```python
     from CompressedStorage import StackStorage
     
     
@@ -31,3 +32,4 @@
     print(storage.pull(15)) # 12
     print(storage.pull(21)) # 17
     print(storage.pull(20)) # 14
+```
