@@ -1,5 +1,4 @@
 # My data storage and compressing lib
----
  `example.py`
  
     from CompressedStorage import StackStorage
